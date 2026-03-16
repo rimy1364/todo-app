@@ -1,4 +1,4 @@
-# Todo App
+# Rimjhim's List
 
 A clean and simple Todo List web application built with HTML, CSS, and JavaScript.
 
